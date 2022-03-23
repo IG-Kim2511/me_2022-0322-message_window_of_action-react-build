@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/me_2022-0322-message_window_of_action-react-build/static/css/main.b234ae6a.css",
+    "main.js": "/me_2022-0322-message_window_of_action-react-build/static/js/main.2eabf86e.js",
+    "static/js/787.e7b9cfab.chunk.js": "/me_2022-0322-message_window_of_action-react-build/static/js/787.e7b9cfab.chunk.js",
+    "index.html": "/me_2022-0322-message_window_of_action-react-build/index.html",
+    "main.b234ae6a.css.map": "/me_2022-0322-message_window_of_action-react-build/static/css/main.b234ae6a.css.map",
+    "main.2eabf86e.js.map": "/me_2022-0322-message_window_of_action-react-build/static/js/main.2eabf86e.js.map",
+    "787.e7b9cfab.chunk.js.map": "/me_2022-0322-message_window_of_action-react-build/static/js/787.e7b9cfab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b234ae6a.css",
+    "static/js/main.2eabf86e.js"
+  ]
+}
